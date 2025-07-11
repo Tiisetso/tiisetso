@@ -1,4 +1,4 @@
-### Hi, I'm Tiisetso. 
+### Hi, I'm Tiisetso
 
 I'm an industrial engineer from South Africa. I'm currently learning C at Hive, a peer to peer coding school, in Helsinki.
 
